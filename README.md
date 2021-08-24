@@ -1,4 +1,4 @@
-## Hi there 👋 This is Hamza Mohammad Khan.
+# Hi there 👋 This is Hamza Mohammad Khan.
 
 ## Sofwtare Engineering graduate.
 - 🔭 I’m currently working on Software Dev Java, C++...
