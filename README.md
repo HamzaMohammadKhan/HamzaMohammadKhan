@@ -1,6 +1,6 @@
-# Hi there 👋 This is Hamza Mohammad Khan.
+# Yo Hi there 👋 This is Hamza Mohammad Khan.
 
-## Sofwtare Engineering graduate.
+## Software Engineering graduate.
 - 🔭 I’m currently working on Software Dev Java, C++...
 - 🌱 I’m currently learning advancemnets in Java, Python, C++, SQL, HTML, CSS, JS, Data Science, Artificial Intelligence, Data Analysis.
 - 👯 I’m looking to collaborate on Backend Devlopment Projetcs.
