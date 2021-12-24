@@ -1,5 +1,6 @@
+<h1>
 # Yo Hi there 👋 This is Hamza Mohammad Khan.
-
+</h1>
 ## Software Engineering graduate.
 - 🔭 I’m currently working on Software Dev Java, C++, Python.
 - 🌱 I’m currently learning advancements in Java, Python, C++, SQL, HTML, CSS, JS ,Django ,Data Science, Artificial Intelligence, Data Analysis, IBM SPSS, Excel.
