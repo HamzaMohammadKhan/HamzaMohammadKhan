@@ -4,6 +4,7 @@ Yo Hi there 👋 This is Hamza Mohammad Khan.
 
 <h2> Software Engineering graduate . </h2>
 
+<li> - working as a Cloud Support Engineer at Cloudways | DigitalOcean, troubleshooting, guiding and solving customer's issues which can be anything XD </li>
 <li> - 🔭 I’m currently working on Software Dev Java, C++, Python. </li>
 <div class="text-align:center">
 <li> - 🌱 I’m currently learning advancements in Java, Python, C++, SQL, HTML, CSS, JS ,Django ,Data Science, Artificial Intelligence, Data Analysis, IBM SPSS, Excel, bash scripting, Cloud Computing.</li>
